@@ -37,7 +37,8 @@ resume-parser-project/
 ├── job_titles.json      # Job roles and required skills
 ├── output.json          # Example parsed output
 ├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+├── README.md            # Project documentation
+└── .gitignore           # Git ignore rules for Python projects
 
 ````
 
