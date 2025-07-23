@@ -1,0 +1,4 @@
+pdfplumber>=0.5.28
+spacy>=3.0.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.0

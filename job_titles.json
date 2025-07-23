@@ -1,0 +1,7 @@
+{
+  "Backend Developer": ["Python", "Django", "SQL", "Git"],
+  "Frontend Developer": ["HTML", "CSS", "JavaScript", "React"],
+  "Data Analyst": ["Python", "SQL", "Pandas", "Excel"],
+  "DevOps Engineer": ["Linux", "Docker", "Git", "CI/CD"],
+  "AI Engineer": ["Python", "TensorFlow", "PyTorch", "Machine Learning"]
+}
