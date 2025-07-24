@@ -100,4 +100,4 @@ AI Engineer (25% match)
 
 ## 🗂 License
 
-MIT License — free to use and modify for personal and commercial projects.
+This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for more details.
