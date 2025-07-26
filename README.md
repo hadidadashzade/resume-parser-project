@@ -71,7 +71,7 @@ resume-parser-project/
 🔍 Resume Analysis Result:
 Name: Name: Hadi Dadashzade
 Email: hadi@example.com
-Phone: +98 923 456 789
+Phone: +98 994 581 4769
 Skills: ['Python', 'SQL']
 
 💼 Recommended Job Titles:
